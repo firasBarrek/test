@@ -1,0 +1,9 @@
+tn\esprit\interfaces\EmployeServiceRemote.class
+tn\esprit\persistance\laboratoire.class
+tn\esprit\persistance\contact.class
+tn\esprit\persistance\chercheur.class
+tn\esprit\persistance\Employe.class
+tn\esprit\services\EmployeService.class
+tn\esprit\persistance\competence.class
+tn\esprit\persistance\technicien.class
+tn\esprit\interfaces\EmployeServiceLocal.class
